@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/peter/Desktop/Android/src/Hello_H5/phoneGap/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/peter/Desktop/Android/src/Hello_H5/phoneGap/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/peter/Desktop/H5/H5_Android/phoneGap/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/peter/Desktop/H5/H5_Android/phoneGap/src/main/res/drawable/icon.png"
+    }
+]
